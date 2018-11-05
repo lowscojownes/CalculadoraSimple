@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="type_operand_one_hint">Tipus operand 1</string>
+
+
+    <string name="type_operand_two_hint">Tipus operand 2</string>
+
+
+    <string name="add_operation_text">Suma</string>
+
+
+    <string name="sub_operation_text">Resta</string>
+
+
+    <string name="div_operation_text">Divisió</string>
+
+
+    <string name="mul_operation_text">Multiplicació</string>
+
+
+    <string name="computationError">Error</string>
+</resources>
